@@ -1,0 +1,16 @@
+.country {
+    border: 5px solid saddlebrown;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 8px grey;
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+
+}
+
+.red-text{
+    color: crimson;
+    font-weight:600;
+    
+}
