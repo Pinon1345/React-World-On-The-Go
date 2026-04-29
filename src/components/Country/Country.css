@@ -9,8 +9,16 @@
 
 }
 
+.country-visited {
+    background-color: rgba(224, 255, 255, 0.37);
+}
+
 .red-text{
     color: crimson;
     font-weight:600;
-    
+
+}
+
+.button-setting {
+    margin-bottom: 15px;
 }

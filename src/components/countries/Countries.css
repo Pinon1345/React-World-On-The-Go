@@ -8,5 +8,13 @@
     .countries {
         grid-template-columns: 1fr;
     }
-    
+
+}
+
+.visited-flag-container img {
+    height: 50px;
+    width: 100px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
